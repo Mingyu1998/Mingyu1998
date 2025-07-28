@@ -7,7 +7,7 @@
 </p>
 
 
-I'm a DPhil student in Biochemistry at Khalid Group at the University of Oxford. My research focuses on using multiscale simulation methods to understand and optimise potential antibiotic agents against Gram-negative bacteria.
+I'm a DPhil student in Biochemistry at Khalid Group at the University of Oxford. My research focuses on using multiscale computational methods to understand and optimise potential antibiotic agents against Gram-negative bacteria.
 
 ---
 
