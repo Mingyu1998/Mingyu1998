@@ -1,4 +1,4 @@
-# Hi there, I'm Mingyu! 👋
+# Hi there, I'm Ming! 👋
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mingyu-qin-708a651b9/" target="_blank">
