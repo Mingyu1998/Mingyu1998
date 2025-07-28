@@ -1,23 +1,21 @@
 # Hi there, I'm Mingyu! 👋
 
 <p align="left">
-  <a href="https://www.linkedin.com/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/mingyu-qin-708a651b9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://scholar.google.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
 </p>
 
-I'm a DPhil student in Computational Biochemistry at the University of Oxford. My research focuses on using Coarse-Grained (CG) molecular dynamics simulations to understand and optimize PAMAM dendrimers as potential antibiotic agents against Gram-negative bacteria.
+
+I'm a DPhil student in Biochemistry at Khalid Group at the University of Oxford. My research focuses on using multiscale simulation methods to understand and optimise potential antibiotic agents against Gram-negative bacteria.
 
 ---
 
 ### 🔬 My Research & Work
 
-- 🔭 I’m currently working on analyzing dendrimer-membrane interactions from my simulations.
+- 🔭 I’m currently working on analyzing polymer/proteins-membrane interactions from my simulations.
 - 💻 My main analysis tool is **MDAnalysis**, which I use within Jupyter Notebooks.
-- 🌱 I’m interested in membrane biophysics, high-performance computing (HPC), and scientific software development.
+- 🌱 I’m interested in membrane biophysics, MD simulations, and high-performance computing (HPC).
 
 ---
 
@@ -33,7 +31,5 @@ I'm a DPhil student in Computational Biochemistry at the University of Oxford. M
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mingyu1998&show_icons=true&theme=transparent" alt="Mingyu's GitHub Stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mingyu1998&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
